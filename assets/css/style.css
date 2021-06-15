@@ -33,6 +33,10 @@ section {
     padding-top: 100px;
 }
 
+strong {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
 .btn {
     border-radius: 0px;
     -webkit-border-radius: 0px;
@@ -49,7 +53,7 @@ section {
 
 .f-big {
     font-size: 40px;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 .set-bk-clr:hover {
@@ -71,11 +75,11 @@ padding:0px;
         height:50px;
     }
 .navbar-default .navbar-toggle {
-    border-color: #FFF;
+    border-color: #242424;
 }
 
     .navbar-default .navbar-toggle .icon-bar {
-        background-color: #FFF;
+        background-color: #bdbdbd;
     }
 
     .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -84,11 +88,12 @@ padding:0px;
 
 .navbar-default .navbar-nav > li > a {
     color: #fff;
-    font-weight: 900;
+    font-weight: 550;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
     .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
-        color: #000;
+        color: #bdbdbd;
         text-decoration: none;
     }
 
@@ -111,7 +116,7 @@ padding:0px;
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-    color: #000;
+    color: #bdbdbd;
     background-color: rgba(0, 0, 0, 0);
     border-radius: 4px;
     -webkit-border-radius: 4px;
