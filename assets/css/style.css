@@ -40,11 +40,11 @@ section {
 }
 
 .set-bk-clr {
-    background-color: #474747;
+    background-color: #242424;
 }
 
 .clr-set {
-    color: #474747;
+    color: #242424;
 }
 
 .f-big {
@@ -59,7 +59,7 @@ section {
 NAVBAR STYLES
 ==============================*/
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
-    color: #fff;
+    color: #bdbdbd;
     font-size: 20px;
     text-transform: uppercase;
 }
@@ -93,7 +93,7 @@ padding:0px;
     }
 
 .navbar-default {
-    background-color: #474747;
+    background-color: #242424;
     border-color: transparent;
 }
 /* ADDED PADDING IN NAVBAR */
@@ -144,7 +144,7 @@ padding:0px;
         font-weight: 900;
         padding-top: 180px;
         padding-bottom: 35px;
-        color: #474747;
+        color: #242424;
     }
 
 
@@ -165,7 +165,7 @@ padding:0px;
     #services i {
         font-size: 80px;
         padding: 30px;
-        color: #474747;
+        color: #242424;
     }
 
     #services h4 {
@@ -200,14 +200,14 @@ padding:0px;
 }
 
     .clients-carousel .thumbnail {
-        border: 1px solid #474747;
+        border: 1px solid #242424;
     }
 
     .clients-carousel .carousel-control.left {
         height: 30px;
         width: 25px;
         margin-top: 45px;
-        background: #474747;
+        background: #242424;
         left: -15px;
     }
 
@@ -215,7 +215,7 @@ padding:0px;
         height: 30px;
         width: 25px;
         margin-top: 45px;
-        background: #474747;
+        background: #242424;
         right: -15px;
     }
 
@@ -234,8 +234,8 @@ padding:0px;
 
 /* FOR CHANGING COLOR OF ACTIVE CATEGORY */
 .caegories a.active {
-    background-color: #474747;
-    border: 2px solid #474747;
+    background-color: #242424;
+    border: 2px solid #242424;
 }
 
 /* FOR TRANSITION BEAUTIFULLY */
@@ -246,7 +246,7 @@ padding:0px;
 }
 
 #works .work-wrapper {
-    border: 2px solid #474747;
+    border: 2px solid #242424;
     padding: 2px;
     margin: 5px 5px 10px 5px;
 }
@@ -293,7 +293,7 @@ padding:0px;
     margin-right: 40px;
     max-height: 150px;
     margin-bottom: 20px;
-    border: 2px solid #474747;
+    border: 2px solid #242424;
 }
 
     .media img:hover {
