@@ -20,7 +20,7 @@ GENERAL STYLES
 @import url(http://fonts.googleapis.com/css?family=Anton|Maven+Pro:500,700);
 
 body {
-    font-family: 'Maven Pro', sans-serif;
+    font-family: Cambria, Georgia, serif;
     line-height: 25px;
 }
 
@@ -40,11 +40,11 @@ section {
 }
 
 .set-bk-clr {
-    background-color: #FF2276;
+    background-color: #7beab4;
 }
 
 .clr-set {
-    color: #FF2276;
+    color: #7beab4;
 }
 
 .f-big {
@@ -93,7 +93,7 @@ padding:0px;
     }
 
 .navbar-default {
-    background-color: #FF2276;
+    background-color: #7beab4;
     border-color: transparent;
 }
 /* ADDED PADDING IN NAVBAR */
@@ -144,7 +144,7 @@ padding:0px;
         font-weight: 900;
         padding-top: 180px;
         padding-bottom: 35px;
-        color: #FF2276;
+        color: #7beab4;
     }
 
 
@@ -165,7 +165,7 @@ padding:0px;
     #services i {
         font-size: 80px;
         padding: 30px;
-        color: #FF2276;
+        color: #7beab4;
     }
 
     #services h4 {
@@ -200,14 +200,14 @@ padding:0px;
 }
 
     .clients-carousel .thumbnail {
-        border: 1px solid #FF2276;
+        border: 1px solid #7beab4;
     }
 
     .clients-carousel .carousel-control.left {
         height: 30px;
         width: 25px;
         margin-top: 45px;
-        background: #FF2276;
+        background: #7beab4;
         left: -15px;
     }
 
@@ -215,7 +215,7 @@ padding:0px;
         height: 30px;
         width: 25px;
         margin-top: 45px;
-        background: #FF2276;
+        background: #7beab4;
         right: -15px;
     }
 
@@ -234,8 +234,8 @@ padding:0px;
 
 /* FOR CHANGING COLOR OF ACTIVE CATEGORY */
 .caegories a.active {
-    background-color: #FF2276;
-    border: 2px solid #FF2276;
+    background-color: #7beab4;
+    border: 2px solid #7beab4;
 }
 
 /* FOR TRANSITION BEAUTIFULLY */
@@ -246,7 +246,7 @@ padding:0px;
 }
 
 #works .work-wrapper {
-    border: 2px solid #FF2276;
+    border: 2px solid #7beab4;
     padding: 2px;
     margin: 5px 5px 10px 5px;
 }
@@ -293,7 +293,7 @@ padding:0px;
     margin-right: 40px;
     max-height: 150px;
     margin-bottom: 20px;
-    border: 2px solid #FF2276;
+    border: 2px solid #7beab4;
 }
 
     .media img:hover {
