@@ -24,13 +24,17 @@ body {
     line-height: 25px;
 }
 
+.container-bg{
+    background: #f5f5f5;
+    padding: 2px 50px 25px 50px;
+}
 .pad-bottom {
     padding-bottom: 60px;
 }
 
 section {
-    padding-bottom: 120px;
-    padding-top: 100px;
+    padding-bottom: 20px;
+    padding-top: 0px;
 }
 
 strong {
@@ -103,7 +107,7 @@ padding:0px;
 }
 /* ADDED PADDING IN NAVBAR */
 .navbar {
-    padding: 15px;
+    padding: 0px;
     -webkit-transition: background .8s ease-out,padding .8s ease-out;
     -moz-transition: background .8s ease-out,padding .8s ease-out;
     transition: background .8s ease-out,padding .8s ease-out;
@@ -308,7 +312,6 @@ padding:0px;
   CONTACT SECTION STYLES
  ============================================================ */
 #contact {
-    background: url(../img/clients.jpg) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -317,7 +320,7 @@ padding:0px;
 }
 
     #contact .overlay {
-        background-color: rgba(0,0,0,0.9);
+        background-color: #242424;
         padding-top: 90px;
         min-height: 300px;
         color: #fff;
