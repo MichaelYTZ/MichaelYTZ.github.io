@@ -25,8 +25,7 @@ body {
 }
 
 .container-bg{
-    background: #f5f5f5;
-    padding: 2px 50px 25px 50px;
+    background-color: #f7f7f7;
 }
 .pad-bottom {
     padding-bottom: 60px;
@@ -167,17 +166,17 @@ padding:0px;
 /*================================
     SERVICES STYLES
 ==================================*/
-#services {
-    background-color: rgba(237, 237, 237, 1);
+#skills {
+    /*background-color: rgba(237, 237, 237, 1);*/
 }
 
-    #services i {
+    #skills i {
         font-size: 80px;
         padding: 30px;
         color: #242424;
     }
 
-    #services h4 {
+    #skills h4 {
         padding-bottom: 5px;
         padding-top: 15px;
     }
